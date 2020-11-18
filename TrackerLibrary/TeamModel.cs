@@ -13,7 +13,7 @@ namespace TrackerLibrary
 
         public TeamModel()
         {
-            this.TeamMembers = new List<PersonModel>;
+            this.TeamMembers = new List<PersonModel>();
         }
     }
 }
